@@ -1,0 +1,256 @@
+2024-05-22 21:31:15.954 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:31:17.658 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 1705 ms | Status code: 200
+
+2024-05-22 21:31:28.298 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:31:28.330 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 32 ms | Status code: 200
+
+2024-05-22 21:31:30.700 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:31:30.720 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 20 ms | Status code: 200
+
+2024-05-22 21:31:30.954 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:31:30.956 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2 ms | Status code: 200
+
+2024-05-22 21:31:31.400 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:31:31.402 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2 ms | Status code: 200
+
+2024-05-22 21:31:31.859 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:31:31.862 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2 ms | Status code: 200
+
+2024-05-22 21:32:51.311 +07:00 [INF] 
+Received request: GET /favicon.ico | Remote IP: ::1
+2024-05-22 21:32:51.389 +07:00 [INF] Completed request: GET /favicon.ico | Duration: 79 ms | Status code: 404
+
+2024-05-22 21:34:22.920 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-22 21:34:26.147 +07:00 [INF] Completed request: POST /User/Register | Duration: 3226 ms | Status code: 200
+
+2024-05-22 21:36:38.245 +07:00 [INF] 
+Received request: POST /User/Login | Remote IP: ::1
+2024-05-22 21:36:38.656 +07:00 [INF] Completed request: POST /User/Login | Duration: 411 ms | Status code: 200
+
+2024-05-22 21:37:29.606 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:37:29.679 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 73 ms | Status code: 400
+
+2024-05-22 21:38:20.688 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:38:20.696 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 7 ms | Status code: 400
+
+2024-05-22 21:38:50.959 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 21:38:50.985 +07:00 [INF] Completed request: POST /api/Order | Duration: 26 ms | Status code: 400
+
+2024-05-22 21:39:05.861 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 21:39:05.878 +07:00 [INF] Completed request: POST /api/Order | Duration: 16 ms | Status code: 200
+
+2024-05-22 21:39:09.693 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 21:39:09.702 +07:00 [INF] Completed request: POST /api/Order | Duration: 8 ms | Status code: 200
+
+2024-05-22 21:39:15.688 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 21:39:16.936 +07:00 [INF] Completed request: POST /api/Order | Duration: 1247 ms | Status code: 200
+
+2024-05-22 21:39:31.346 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:39:31.565 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 219 ms | Status code: 200
+
+2024-05-22 21:54:10.700 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-22 21:54:13.043 +07:00 [INF] Completed request: POST /User/Register | Duration: 2344 ms | Status code: 200
+
+2024-05-22 21:54:35.539 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:54:35.694 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 154 ms | Status code: 200
+
+2024-05-22 21:54:58.719 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 21:54:59.941 +07:00 [INF] Completed request: POST /api/Order | Duration: 1222 ms | Status code: 200
+
+2024-05-22 21:55:50.281 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:55:50.416 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 135 ms | Status code: 200
+
+2024-05-22 21:58:25.083 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 21:58:25.269 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 186 ms | Status code: 200
+
+2024-05-22 21:59:15.655 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-22 21:59:15.684 +07:00 [INF] Completed request: POST /User/Register | Duration: 29 ms | Status code: 400
+
+2024-05-22 21:59:20.652 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-22 21:59:20.958 +07:00 [INF] Completed request: POST /User/Register | Duration: 305 ms | Status code: 200
+
+2024-05-22 21:59:38.443 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 21:59:39.501 +07:00 [INF] Completed request: POST /api/Order | Duration: 1058 ms | Status code: 200
+
+2024-05-22 22:00:47.346 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 22:00:49.676 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2332 ms | Status code: 200
+
+2024-05-22 22:01:10.853 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 22:01:10.971 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 118 ms | Status code: 200
+
+2024-05-22 23:17:32.187 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-22 23:17:34.629 +07:00 [INF] Completed request: POST /User/Register | Duration: 2442 ms | Status code: 200
+
+2024-05-22 23:17:48.855 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 23:17:50.326 +07:00 [INF] Completed request: POST /api/Order | Duration: 1470 ms | Status code: 200
+
+2024-05-22 23:18:04.257 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:18:04.575 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 317 ms | Status code: 200
+
+2024-05-22 23:18:55.349 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:18:57.566 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2227 ms | Status code: 200
+
+2024-05-22 23:24:42.930 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:24:45.011 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 2082 ms | Status code: 200
+
+2024-05-22 23:25:29.535 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:25:29.686 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 151 ms | Status code: 400
+
+2024-05-22 23:28:56.653 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:28:58.948 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2297 ms | Status code: 200
+
+2024-05-22 23:29:05.170 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:29:05.460 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 290 ms | Status code: 200
+
+2024-05-22 23:29:07.180 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:29:07.228 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 47 ms | Status code: 200
+
+2024-05-22 23:29:09.053 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:29:09.070 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 17 ms | Status code: 200
+
+2024-05-22 23:29:09.799 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:29:09.811 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 12 ms | Status code: 200
+
+2024-05-22 23:29:10.652 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:29:10.663 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 11 ms | Status code: 200
+
+2024-05-22 23:30:24.896 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 23:30:26.274 +07:00 [INF] Completed request: POST /api/Order | Duration: 1378 ms | Status code: 200
+
+2024-05-22 23:30:45.641 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:30:45.655 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 14 ms | Status code: 200
+
+2024-05-22 23:30:46.378 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:30:46.390 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 12 ms | Status code: 200
+
+2024-05-22 23:31:22.987 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:31:23.082 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 94 ms | Status code: 200
+
+2024-05-22 23:31:42.816 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:31:42.862 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 45 ms | Status code: 200
+
+2024-05-22 23:31:47.713 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:31:47.759 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 46 ms | Status code: 200
+
+2024-05-22 23:37:25.397 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:37:27.118 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 1722 ms | Status code: 200
+
+2024-05-22 23:37:36.872 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:37:37.051 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 179 ms | Status code: 400
+
+2024-05-22 23:37:53.579 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-22 23:37:53.637 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 58 ms | Status code: 200
+
+2024-05-22 23:44:13.897 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:44:19.293 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 5396 ms | Status code: 200
+
+2024-05-22 23:45:10.533 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:45:15.111 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 4580 ms | Status code: 200
+
+2024-05-22 23:49:03.525 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:49:05.702 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2178 ms | Status code: 200
+
+2024-05-22 23:51:35.037 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:51:37.135 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2098 ms | Status code: 200
+
+2024-05-22 23:51:48.976 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 23:51:50.519 +07:00 [INF] Completed request: POST /api/Order | Duration: 1542 ms | Status code: 200
+
+2024-05-22 23:52:09.854 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:52:09.922 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 68 ms | Status code: 200
+
+2024-05-22 23:52:29.909 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-22 23:52:30.358 +07:00 [INF] Completed request: POST /User/Register | Duration: 449 ms | Status code: 200
+
+2024-05-22 23:52:41.523 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-22 23:52:41.873 +07:00 [INF] Completed request: POST /api/Order | Duration: 350 ms | Status code: 200
+
+2024-05-22 23:52:55.161 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:52:55.212 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 50 ms | Status code: 200
+
+2024-05-22 23:53:33.687 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:53:35.824 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2138 ms | Status code: 200
+
+2024-05-22 23:54:20.140 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-22 23:54:20.222 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 82 ms | Status code: 400
+
+2024-05-22 23:54:51.412 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-22 23:54:51.535 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 122 ms | Status code: 200
+
+2024-05-22 23:55:06.744 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-22 23:55:06.750 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 5 ms | Status code: 400
+
+2024-05-22 23:56:24.431 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-22 23:56:24.510 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 79 ms | Status code: 200
+
+2024-05-22 23:57:11.477 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:57:11.533 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 56 ms | Status code: 200
+
+2024-05-22 23:58:31.841 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-22 23:58:34.129 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 2291 ms | Status code: 200
+
+2024-05-22 23:58:40.176 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-22 23:58:40.355 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 179 ms | Status code: 200
+

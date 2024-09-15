@@ -1,0 +1,12 @@
+2024-05-17 21:59:17.854 +07:00 [INF] 
+Received request: GET /Document/FilterDocuments | Remote IP: ::1
+2024-05-17 21:59:20.471 +07:00 [INF] Completed request: GET /Document/FilterDocuments | Duration: 2618 ms | Status code: 200
+
+2024-05-17 21:59:25.670 +07:00 [INF] 
+Received request: GET /Document/FilterDocuments | Remote IP: ::1
+2024-05-17 21:59:25.758 +07:00 [INF] Completed request: GET /Document/FilterDocuments | Duration: 87 ms | Status code: 200
+
+2024-05-17 21:59:35.699 +07:00 [INF] 
+Received request: GET /Document/FilterDocuments | Remote IP: ::1
+2024-05-17 21:59:35.748 +07:00 [INF] Completed request: GET /Document/FilterDocuments | Duration: 48 ms | Status code: 200
+

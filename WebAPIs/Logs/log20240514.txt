@@ -1,0 +1,48 @@
+2024-05-14 16:27:23.336 +07:00 [INF] 
+Received request: GET /Document/GetDocuments | Remote IP: ::1
+2024-05-14 16:27:27.231 +07:00 [INF] Completed request: GET /Document/GetDocuments | Duration: 3900 ms | Status code: 200
+
+2024-05-14 16:27:38.550 +07:00 [INF] 
+Received request: GET /User/GetUsers | Remote IP: ::1
+2024-05-14 16:27:38.954 +07:00 [INF] Completed request: GET /User/GetUsers | Duration: 404 ms | Status code: 200
+
+2024-05-14 16:27:46.368 +07:00 [INF] 
+Received request: GET /User/GetUserProfile | Remote IP: ::1
+2024-05-14 16:27:46.554 +07:00 [INF] Completed request: GET /User/GetUserProfile | Duration: 186 ms | Status code: 200
+
+2024-05-14 16:28:05.955 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:06.016 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 60 ms | Status code: 200
+
+2024-05-14 16:28:08.762 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:08.801 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 38 ms | Status code: 200
+
+2024-05-14 16:28:08.935 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:08.963 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 27 ms | Status code: 200
+
+2024-05-14 16:28:09.120 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:09.155 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 35 ms | Status code: 200
+
+2024-05-14 16:28:09.289 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:09.314 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 24 ms | Status code: 200
+
+2024-05-14 16:28:09.437 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:09.474 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 36 ms | Status code: 200
+
+2024-05-14 16:28:09.599 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:09.639 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 40 ms | Status code: 200
+
+2024-05-14 16:28:09.744 +07:00 [INF] 
+Received request: GET /User/GetUserByUsername/Admin | Remote IP: ::1
+2024-05-14 16:28:09.781 +07:00 [INF] Completed request: GET /User/GetUserByUsername/Admin | Duration: 37 ms | Status code: 200
+
+2024-05-14 16:30:10.053 +07:00 [INF] 
+Received request: GET /User/GetUserProfile | Remote IP: ::1
+2024-05-14 16:30:13.933 +07:00 [INF] Completed request: GET /User/GetUserProfile | Duration: 3882 ms | Status code: 200
+

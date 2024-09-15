@@ -1,0 +1,372 @@
+2024-05-23 00:01:06.691 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:01:08.605 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 1916 ms | Status code: 200
+
+2024-05-23 00:01:21.820 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:01:22.020 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 200 ms | Status code: 200
+
+2024-05-23 00:07:24.401 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:07:25.846 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 1445 ms | Status code: 200
+
+2024-05-23 00:09:27.445 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:27.595 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 149 ms | Status code: 200
+
+2024-05-23 00:09:42.217 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:09:42.336 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 118 ms | Status code: 200
+
+2024-05-23 00:09:48.037 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:48.076 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 38 ms | Status code: 200
+
+2024-05-23 00:09:51.945 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:51.984 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 39 ms | Status code: 200
+
+2024-05-23 00:09:52.762 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:52.794 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 32 ms | Status code: 200
+
+2024-05-23 00:09:53.461 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:53.552 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 91 ms | Status code: 200
+
+2024-05-23 00:09:54.017 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:54.132 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 115 ms | Status code: 200
+
+2024-05-23 00:09:54.571 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:09:54.660 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 88 ms | Status code: 200
+
+2024-05-23 00:11:27.628 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:12:06.559 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 38931 ms | Status code: 200
+
+2024-05-23 00:12:30.406 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:12:55.087 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 24681 ms | Status code: 200
+
+2024-05-23 00:13:12.316 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:14:39.647 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 87331 ms | Status code: 200
+
+2024-05-23 00:15:05.980 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:17:03.226 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 117246 ms | Status code: 200
+
+2024-05-23 00:18:10.374 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:19:32.005 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:21:06.317 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 94322 ms | Status code: 200
+
+2024-05-23 00:21:09.523 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:21:32.256 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 22733 ms | Status code: 200
+
+2024-05-23 00:21:35.055 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:22:19.476 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 44421 ms | Status code: 200
+
+2024-05-23 00:22:28.434 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:24:15.338 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 106903 ms | Status code: 200
+
+2024-05-23 00:26:00.653 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:26:23.293 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 22641 ms | Status code: 200
+
+2024-05-23 00:28:17.945 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:33:45.018 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 00:34:46.556 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 00:35:14.560 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 00:39:27.877 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:39:55.730 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 27854 ms | Status code: 200
+
+2024-05-23 00:40:54.028 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:41:36.845 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:42:26.560 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:45:46.628 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:45:51.295 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 4669 ms | Status code: 200
+
+2024-05-23 00:46:11.133 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:46:23.718 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 12585 ms | Status code: 200
+
+2024-05-23 00:47:36.285 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:47:40.987 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 4703 ms | Status code: 200
+
+2024-05-23 00:48:34.452 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:48:38.236 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 3785 ms | Status code: 200
+
+2024-05-23 00:50:15.710 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:50:19.762 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 4053 ms | Status code: 200
+
+2024-05-23 00:50:31.093 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:52:43.550 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 132457 ms | Status code: 200
+
+2024-05-23 00:55:11.695 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:55:34.563 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 22869 ms | Status code: 200
+
+2024-05-23 00:56:33.186 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:56:33.259 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 72 ms | Status code: 400
+
+2024-05-23 00:57:38.012 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:57:42.992 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 4981 ms | Status code: 200
+
+2024-05-23 00:58:56.872 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 00:59:02.521 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 5649 ms | Status code: 200
+
+2024-05-23 00:59:11.958 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 00:59:14.380 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 2422 ms | Status code: 200
+
+2024-05-23 01:00:55.186 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:00:56.663 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 1477 ms | Status code: 200
+
+2024-05-23 01:01:09.040 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:01:35.188 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 26147 ms | Status code: 200
+
+2024-05-23 01:16:59.495 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:17:30.902 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 31407 ms | Status code: 200
+
+2024-05-23 01:18:19.866 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:18:23.855 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 3988 ms | Status code: 200
+
+2024-05-23 01:20:54.254 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-23 01:20:54.855 +07:00 [INF] Completed request: POST /User/Register | Duration: 601 ms | Status code: 200
+
+2024-05-23 01:21:11.774 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-23 01:21:13.074 +07:00 [INF] Completed request: POST /api/Order | Duration: 1299 ms | Status code: 200
+
+2024-05-23 01:21:25.675 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 01:21:29.268 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 3592 ms | Status code: 200
+
+2024-05-23 01:22:53.115 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 01:23:27.742 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 01:23:32.019 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 4278 ms | Status code: 200
+
+2024-05-23 01:25:12.845 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-23 01:25:13.568 +07:00 [INF] Completed request: POST /User/Register | Duration: 722 ms | Status code: 200
+
+2024-05-23 01:25:38.935 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-23 01:25:40.161 +07:00 [INF] Completed request: POST /api/Order | Duration: 1225 ms | Status code: 200
+
+2024-05-23 01:25:53.517 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 01:25:57.795 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 4277 ms | Status code: 200
+
+2024-05-23 01:26:42.877 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:26:56.124 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 13246 ms | Status code: 200
+
+2024-05-23 01:27:19.455 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:28:13.199 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:28:20.109 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 6911 ms | Status code: 200
+
+2024-05-23 01:28:55.142 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:30:44.196 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:37:48.747 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:39:42.892 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:40:40.970 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:40:42.535 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 59611 ms | Status code: 200
+
+2024-05-23 01:40:42.535 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 59611 ms | Status code: 200
+
+2024-05-23 01:41:23.242 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:41:23.280 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 38 ms | Status code: 400
+
+2024-05-23 01:41:27.764 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:41:30.829 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 3064 ms | Status code: 200
+
+2024-05-23 01:42:41.014 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:42:52.789 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 11775 ms | Status code: 200
+
+2024-05-23 01:44:07.942 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:45:11.176 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 63234 ms | Status code: 200
+
+2024-05-23 01:45:27.104 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:45:29.402 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 2298 ms | Status code: 200
+
+2024-05-23 01:48:55.126 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:48:55.135 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 8 ms | Status code: 400
+
+2024-05-23 01:49:01.335 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:49:03.664 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 2329 ms | Status code: 200
+
+2024-05-23 01:50:17.219 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:50:24.945 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 7727 ms | Status code: 200
+
+2024-05-23 01:54:21.857 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:55:37.772 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:57:06.611 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 01:57:12.728 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 189924 ms | Status code: 200
+
+2024-05-23 01:57:12.728 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 189924 ms | Status code: 200
+
+2024-05-23 01:57:37.271 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 01:57:43.103 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 5832 ms | Status code: 200
+
+2024-05-23 01:58:43.697 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-23 01:58:43.784 +07:00 [INF] Completed request: POST /User/Register | Duration: 86 ms | Status code: 200
+
+2024-05-23 01:58:50.036 +07:00 [INF] 
+Received request: POST /User/Register | Remote IP: ::1
+2024-05-23 01:58:50.570 +07:00 [INF] Completed request: POST /User/Register | Duration: 534 ms | Status code: 200
+
+2024-05-23 01:59:00.978 +07:00 [INF] 
+Received request: POST /api/Order | Remote IP: ::1
+2024-05-23 01:59:02.329 +07:00 [INF] Completed request: POST /api/Order | Duration: 1350 ms | Status code: 200
+
+2024-05-23 01:59:11.887 +07:00 [INF] 
+Received request: POST /Payment/MomoPayment | Remote IP: ::1
+2024-05-23 01:59:16.817 +07:00 [INF] Completed request: POST /Payment/MomoPayment | Duration: 4929 ms | Status code: 200
+
+2024-05-23 02:01:12.163 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:01:15.118 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 2955 ms | Status code: 200
+
+2024-05-23 02:01:31.688 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:01:35.946 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 4257 ms | Status code: 200
+
+2024-05-23 02:01:43.819 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:01:51.407 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 7587 ms | Status code: 200
+
+2024-05-23 02:01:54.246 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:02:26.696 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 32450 ms | Status code: 200
+
+2024-05-23 02:02:40.603 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:02:44.609 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 4005 ms | Status code: 200
+
+2024-05-23 02:07:59.260 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:10:07.841 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:10:08.620 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 129360 ms | Status code: 200
+
+2024-05-23 02:10:08.808 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 0 ms | Status code: 200
+
+2024-05-23 02:12:14.953 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:13:30.887 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:13:41.046 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 10159 ms | Status code: 200
+
+2024-05-23 02:14:54.906 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:15:20.820 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:15:27.772 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 6957 ms | Status code: 200
+
+2024-05-23 02:15:35.685 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:15:39.221 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 3535 ms | Status code: 200
+
+2024-05-23 02:16:57.530 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:17:07.062 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:17:42.676 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:19:09.921 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 87257 ms | Status code: 200
+
+2024-05-23 02:19:20.726 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:19:26.779 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 6053 ms | Status code: 200
+
+2024-05-23 02:20:26.105 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:20:38.746 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 12642 ms | Status code: 200
+
+2024-05-23 02:21:02.587 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:21:24.036 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 21452 ms | Status code: 200
+
+2024-05-23 02:21:34.083 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:21:35.892 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 1809 ms | Status code: 200
+
+2024-05-23 02:35:36.482 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:35:42.021 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 5540 ms | Status code: 200
+
+2024-05-23 02:36:00.496 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:36:02.831 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 2335 ms | Status code: 200
+
+2024-05-23 02:36:39.199 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:36:46.874 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 7675 ms | Status code: 200
+
+2024-05-23 02:37:44.997 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:37:56.912 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 11915 ms | Status code: 200
+
+2024-05-23 02:38:04.195 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:39:51.358 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 107163 ms | Status code: 200
+
+2024-05-23 02:40:37.521 +07:00 [INF] 
+Received request: POST /Payment/Refund | Remote IP: ::1
+2024-05-23 02:41:23.922 +07:00 [INF] Completed request: POST /Payment/Refund | Duration: 46402 ms | Status code: 200
+
+2024-05-23 02:41:30.315 +07:00 [INF] 
+Received request: POST /Payment/QueryTransaction | Remote IP: ::1
+2024-05-23 02:41:31.826 +07:00 [INF] Completed request: POST /Payment/QueryTransaction | Duration: 1511 ms | Status code: 200
+

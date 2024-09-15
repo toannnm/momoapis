@@ -1,0 +1,78 @@
+2024-05-18 00:06:14.834 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:18:57.198 +07:00 [INF] 
+Received request: GET /Document/FilterDocuments | Remote IP: ::1
+2024-05-18 00:18:59.210 +07:00 [INF] Completed request: GET /Document/FilterDocuments | Duration: 2013 ms | Status code: 200
+
+2024-05-18 00:19:08.701 +07:00 [INF] 
+Received request: GET /Document/FilterDocuments | Remote IP: ::1
+2024-05-18 00:19:08.779 +07:00 [INF] Completed request: GET /Document/FilterDocuments | Duration: 78 ms | Status code: 200
+
+2024-05-18 00:23:10.836 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:31:50.785 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:34:03.572 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:34:04.796 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1224 ms | Status code: 200
+
+2024-05-18 00:36:40.470 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:37:39.447 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 58558 ms | Status code: 200
+
+2024-05-18 00:39:38.994 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:40:20.193 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 41199 ms | Status code: 200
+
+2024-05-18 00:40:29.534 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:44:10.442 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:44:11.695 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1254 ms | Status code: 200
+
+2024-05-18 00:48:51.428 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:48:52.663 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1236 ms | Status code: 200
+
+2024-05-18 00:49:52.666 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:49:53.837 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1172 ms | Status code: 200
+
+2024-05-18 00:51:53.804 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 00:51:54.922 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1119 ms | Status code: 200
+
+2024-05-18 01:27:22.138 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 01:27:23.261 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1123 ms | Status code: 200
+
+2024-05-18 01:50:19.338 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 01:50:20.486 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1149 ms | Status code: 200
+
+2024-05-18 01:51:42.383 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 01:51:43.670 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1288 ms | Status code: 200
+
+2024-05-18 01:52:23.766 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 01:52:24.922 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1157 ms | Status code: 200
+
+2024-05-18 02:19:51.759 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 02:21:44.686 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 02:21:46.908 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 2224 ms | Status code: 200
+
+2024-05-18 22:40:40.447 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 22:40:43.985 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 3540 ms | Status code: 200
+
+2024-05-18 22:44:56.338 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 22:44:58.315 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 1979 ms | Status code: 200
+
+2024-05-18 23:03:52.585 +07:00 [INF] 
+Received request: POST /Document/ExportDocumentsToExcel | Remote IP: ::1
+2024-05-18 23:03:54.642 +07:00 [INF] Completed request: POST /Document/ExportDocumentsToExcel | Duration: 2058 ms | Status code: 200
+
